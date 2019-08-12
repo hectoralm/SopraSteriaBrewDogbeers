@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SopraSteria (BrewDog beers)</string>
+
+    <string name="hint_find_food">Ex: Tacos, Carne asada...</string>
+    <string name="btn_search_beer">Buscar</string>
+
+</resources>
